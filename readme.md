@@ -1,3 +1,4 @@
+```
  1747  mkdir imt2021072
  1748  cd imt2021072/
  1749  git init
@@ -34,4 +35,4 @@
  1780  git status
  1781  git pull
  1782  history 
-
+```
